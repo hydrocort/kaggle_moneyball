@@ -22,3 +22,4 @@ dependencies:
   - pip:
       - pmdarima==2.0.4
       - catboost==1.2.2
+      - optuna
